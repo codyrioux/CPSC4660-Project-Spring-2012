@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/exportResults" android:title="Export Results" android:titleCondensed="Export"></item>
+    <item android:id="@+id/resetExperiment" android:title="Reset Experiment" android:titleCondensed="Reset"></item>
+    
+
+</menu>
